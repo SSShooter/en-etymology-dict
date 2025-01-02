@@ -13,6 +13,10 @@
 
 以上信息均由 AI 生成，不保证准确。另外，可在线查询英英词典，或打开 Merriam-Webster 页面了解更多单词信息。
 
+## 下载
+
+Windows 便携版（12.9 MB）[Github releases](https://github.com/SSShooter/en-etymology-dict/releases)
+
 ## 技术栈
 
 - Vite
